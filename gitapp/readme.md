@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/saschatestorga/TestProject/_apis/build/status%2FSascha0504.gitapp?branchName=main)](https://dev.azure.com/saschatestorga/TestProject/_build/latest?definitionId=5&branchName=main)
